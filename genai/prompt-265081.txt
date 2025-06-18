@@ -1,0 +1,4 @@
+Prompt: using artificial intelligence tell me who is India's President
+
+Response:
+As of October 26, 2023, the President of India is **Droupadi Murmu**.

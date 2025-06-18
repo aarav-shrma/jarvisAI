@@ -1,0 +1,4 @@
+Prompt: using artificial intelligence tell me who is Prime Minister of India
+
+Response:
+The current Prime Minister of India is Narendra Modi.

@@ -1,0 +1,11 @@
+Prompt: Jarvis
+
+Response:
+"Jarvis" is most commonly known as the artificial intelligence assistant in the Marvel Cinematic Universe's Iron Man films.  Is there anything specific you'd like to know about Jarvis?  For example, are you interested in:
+
+* **His capabilities in the MCU?** (e.g., controlling Iron Man's suit, managing Stark Tower)
+* **His development and evolution?** (e.g., his relationship with Tony Stark, his upgrade to Vision)
+* **His role in the broader MCU narrative?**
+* **Comparisons to other AI assistants in fiction or reality?**
+
+Please clarify your query to get a more relevant and helpful response.

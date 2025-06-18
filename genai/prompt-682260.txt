@@ -1,0 +1,4 @@
+Prompt: what is the weather today
+
+Response:
+I do not have access to real-time information, including current weather.  To get the weather for your location, please use a weather app or website such as Google Weather, AccuWeather, or your local news station's website.

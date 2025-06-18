@@ -1,0 +1,4 @@
+Prompt: hey Jarvis how are you
+
+Response:
+I'm doing well, thank you for asking!  How are you today?
